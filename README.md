@@ -10,6 +10,7 @@ Currently we are developing python code for an educational environment called Ki
 
 More updates & surprises are comming, stay tune!    
 
+# Links to keep in mind
 
-[JdeRobot Main Page](http://jderobot.org/Main_Page)
+[JdeRobot Main Page](http://jderobot.org/Main_Page)\n
 [Kibotics project](https://www.kibotics.org/)
