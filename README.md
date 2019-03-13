@@ -11,6 +11,11 @@ You could find all our news on the wiki!
 
 More updates & surprises are comming, stay tune!    
 
+# Media & YouTube Channels 
+Track our project on the media
+
+[Regular Robotics](https://www.youtube.com/channel/UCGTh2IOVx2vxvtd_ZmA8P6w)
+
 # Links to keep in mind
 
 [JdeRobot Main Page](http://jderobot.org/Main_Page)
