@@ -7,6 +7,7 @@ We are a team formed by a group of Robotics Software Engineering Students of Kin
 # The PiBot project 
 
 Currently we are developing python code for an educational environment called Kibotics, this environment is inside the non profit organization JdeRobot. As well as this code, the aim of this team is search better solutions for PiBot: the educational robot designed for teaching robotics to teens at high school.
+You could find all our news on the wiki!
 
 More updates & surprises are comming, stay tune!    
 
