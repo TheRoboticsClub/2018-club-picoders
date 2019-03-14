@@ -24,7 +24,7 @@ Track our project on the media
 
 
 
-# Links to keep in mind
+# Useful links
 
 [JdeRobot Main Page](http://jderobot.org/Main_Page)                                 
 [Kibotics project](https://www.kibotics.org/)
