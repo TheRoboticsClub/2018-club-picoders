@@ -28,3 +28,14 @@ Track our project on the media
 
 [JdeRobot Main Page](http://jderobot.org/Main_Page)                                 
 [Kibotics project](https://www.kibotics.org/)
+
+
+
+
+
+
+
+<img src="docs/kibotics.png" width="250" height="125" >   <img src="docs/logosmall.png" width="200" height="200" >    <img src="docs/urjclogo.png" width="250" height="125" >
+
+
+
